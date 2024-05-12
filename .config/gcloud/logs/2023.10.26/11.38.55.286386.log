@@ -1,0 +1,15 @@
+2023-10-26 11:38:55,287 DEBUG    root            Loaded Command Group: ['gcloud', 'config']
+2023-10-26 11:38:55,288 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'config_helper']
+2023-10-26 11:38:55,288 DEBUG    root            Running [gcloud.config.config-helper] with arguments: [--format: "json(credential)"]
+2023-10-26 11:38:55,290 DEBUG    root            Chosen display Format:default json(credential)
+2023-10-26 11:38:55,291 INFO     root            Display format: "default json(credential)"
+2023-10-26 11:38:55,291 INFO     ___FILE_ONLY___ {
+  "credential": {
+    "access_token": "ya29.a0AfB_byBjG-QmJlyuh2HvXVFtlEFyHRW0TZJGwzrSCkv8iuzmYfDZEovsaTDSJ8aQrHE-LuSwDxBGiH0LqlArDxhZmLhvvEVGY58WVsoVQtimRNG3Jax7A8PvmYYjPBGhoVAlLcSPyxSqeXMxUpmOQhVB2m_oZ47Qv93ExC7SWor2aCgYKAS0SARASFQGOcNnCwf1J2HjNEd2OnFCbnhAsJA0179",
+    "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImEwNmFmMGI2OGEyMTE5ZDY5MmNhYzRhYmY0MTVmZjM3ODgxMzZmNjUiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIzMjU1NTk0MDU1OS5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsImF1ZCI6IjMyNTU1OTQwNTU5LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTExMDM1ODIwODA5Nzg4ODc5ODYxIiwiaGQiOiJvcGVueC5jb20iLCJlbWFpbCI6ImpvZWwubWV5ZXJAb3BlbnguY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJKbnQteE9WS1VGM2FLUVR6Z00tTGl3IiwiaWF0IjoxNjk4MzM3NzE2LCJleHAiOjE2OTgzNDEzMTZ9.xYU2vz8Befbwe6Us8kggBWvHBbV-L1zemBkhxCxBDWg3cScg6hDbBT5WMvJlQZ6CWmTmq7Pkvac4Il-HuZ9Q1Ho2Bq66lGhGCUCU7Mxda2N5OY4mYrRa_VVQOhYn5iI9hlqTazq1vqsZYPyZuRJuvwFoQwwjWKupVnEOxbbcqPai0kjthuTrg3tX1bRb4Q3N7BwOu6sKkPPScyTKHlw2zjrpVENzE2CnOwyLt2Ibbzjed4-zDr4P4shDs0YMM7y9C16LZLuvMa-siUYoEF7wsLe8YT3vo4IvsCK3EK2s7kp6Nku4dNxkkXBBnmURIUnusfpFSpqOHT5cs6N5AqrtGQ",
+    "token_expiry": "2023-10-26T17:28:35Z"
+  }
+}
+2023-10-26 11:38:55,291 INFO     ___FILE_ONLY___ 
+
+2023-10-26 11:38:55,295 DEBUG    root            Metrics reporting process started...
